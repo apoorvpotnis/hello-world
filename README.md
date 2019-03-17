@@ -3,11 +3,11 @@ hello-world program
 
 This is a README file for my fisrt program on GitHub. The following is code for printing "hello, world!" in C.
 
-#include <stdio.h>
+  #include <stdio.h>
 
-int main (void)
-{
-  printf ("hello, world!");
-  
-  return 0;
-}
+  int main (void)
+  {
+    printf ("hello, world!");
+
+    return 0;
+  }
