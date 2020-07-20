@@ -1,7 +1,7 @@
 # hello-world
 hello-world program
 
-This is a README file for my fisrt program on GitHub. The following is code for printing "hello, world!" in C.
+This is a README file for my fisrt program on GitHub. The following is code for printing "hello, world!" (without the quotation marks) in C.
 
     #inlude <stdio.h>
 
